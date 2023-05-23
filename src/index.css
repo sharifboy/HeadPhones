@@ -18,3 +18,26 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+button {
+  border: none;
+  background-color: unset;
+}
+
+.button {
+  padding: 15px 46px;
+  border-radius: 62px;
+  font-size: 22px;
+  line-height: 140%;
+  font-weight: 500;
+  color: #ff4948;
+  text-transform: uppercase;
+  background-color: #fff;
+  cursor: pointer;
+}

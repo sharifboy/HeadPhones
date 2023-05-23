@@ -1,0 +1,7 @@
+.page-header {
+    background-image: url(../../assets/image/header-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+}
